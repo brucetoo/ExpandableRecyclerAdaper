@@ -11,8 +11,11 @@
   it's really simple to use.
   
   I will make more complex example:there are outer RecyclerView and inner RecyclerView
+  
   1.outer RecyclerView only has Header but no Footer
+  
   2.inner RecyclerView have both Header and Footer
+  
   3.show ***Problems*** when make a RecyclerView as the other RecyclerView's item.
   
 ------
